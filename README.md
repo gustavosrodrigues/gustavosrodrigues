@@ -1,9 +1,8 @@
 ## Olá, meu nome é Gustavo Rodrigues.
 
-- Estudando para me tornar um desenvolvedor Front-End;
-- Atualmente eu estou focando em aprender Javascript, HTML5 e CSS3 (Alura, FreeCodeCamp);
+- Estudando e trabalhando, sempre busacando ir um pouco mais longe na jornada de desenvolvedor f̶r̶o̶n̶t̶-̶e̶n̶d full stack;
+- Atualmente eu estou focando em aprimorar meu Javascript, usando frameworks como Vue.js e React;
 - Eu vou manter os repositórios como uma maneira de registrar o meu aprendizado;
-- Foco em construir Websites;
 - No futuro também treinarei meu JS com jogos em browser.
 
 
