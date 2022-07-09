@@ -1,6 +1,6 @@
 ## Olá, meu nome é Gustavo Rodrigues.
 
-- Estudando e trabalhando, sempre busacando ir um pouco mais longe na jornada de desenvolvedor ~~front-end~~ full stack;
+- Estudando e trabalhando, sempre buscando ir um pouco mais longe na jornada de desenvolvedor ~~front-end~~ full stack;
 - Atualmente eu estou focando em aprimorar meu Javascript, usando frameworks como Vue.js e React;
 - Eu vou manter os repositórios como uma maneira de registrar o meu aprendizado;
 - No futuro também treinarei meu JS com jogos em browser.
