@@ -1,9 +1,10 @@
 ## Olá, meu nome é Gustavo Rodrigues.
 
-- Estudando e trabalhando, sempre buscando ir um pouco mais longe na jornada de desenvolvedor ~~front-end~~ full stack;
-- Atualmente eu estou focando em aprimorar meu Javascript, usando frameworks como Vue.js e React;
-- Eu vou manter os repositórios como uma maneira de registrar o meu aprendizado;
-- No futuro também treinarei meu JS com jogos em browser.
+- Desenvolvedor full stack trabalhando principalmente com Laravel, Vue.js e um pouco de Node.js e React pelo caminho;
+- Gosto de construir sistemas completos, resolver problemas e entender como as peças se conectam além da interface;
+- Atualmente focado em aprofundar conhecimentos em arquitetura, comunicação em tempo real e aplicações escaláveis;
+- Os repositórios aqui são tanto projetos quanto registros da minha evolução contínua como desenvolvedor;
+- Ainda tentando equilibrar código limpo, performance e sanidade mental.
 
 
 ## Linguagens e ferramentas:
@@ -11,10 +12,10 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="50" style="vertical-align:top; margin-left:10px;">       
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="HTML5" height="50" style="vertical-align:top; margin-left:10px;">  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Javascript" height="50">  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Javascript" height="50">  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Javascript" height="50">
   <br>
-  <br>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40">
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="VS Code" height="40">
+  <br>  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40">
 </p>
